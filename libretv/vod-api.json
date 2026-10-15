@@ -1,0 +1,19 @@
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 1,
+  "limit": "20",
+  "total": 1,
+  "list": [
+    {
+      "vod_id": "bbb",
+      "vod_name": "Big Buck Bunny 大雄兔",
+      "type_name": "开放影片",
+      "vod_year": "2008",
+      "vod_area": "Blender Foundation",
+      "vod_remarks": "开放授权演示片",
+      "vod_content": "Blender Foundation 开放电影，用于验证 LibreTV 点播搜索、详情和播放链路。"
+    }
+  ]
+}
